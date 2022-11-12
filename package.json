@@ -1,5 +1,5 @@
 {
-  "name": "raganork-md",
+  "name": "maalootyv2",
   "version": "3.0.5",
   "description": "Raganork whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/maalooty/maalootyv2.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Maalooty",
+  "developer": "@maalooty",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/maalooty/maalootyv2#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
+    "@adiwajshing/baileys": "git+https://github.com/maalooty/Baileys.git",
     "@adiwajshing/keyed-db": "0.2.4",
     "acrcloud": "1.4.0",
     "adm-zip": "0.5.9",
